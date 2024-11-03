@@ -144,7 +144,10 @@ ex) feat: (#13) Google, Naver, Kakao의 RestClient 구현체를 구현한다
   - **가벼운 상태 관리 라이브러리**로, Redux보다 간단하고 코드가 간결해지며, 리액티브한 글로벌 상태 관리에 적합.
 
 ## 시연 영상
-![GIFMaker_me](https://github.com/user-attachments/assets/2d13dcc9-bc22-4c80-baa9-a2c3025a68fb)
+
+https://github.com/user-attachments/assets/143d7d82-852f-4c9a-a71d-814e3dc2e795
+
+
 
 ## AsyncBoundary+tanstack-query를 이용한 데이터 페칭
 - tanstack-query를 이용한 데이터 캐싱
