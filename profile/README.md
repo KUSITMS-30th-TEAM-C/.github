@@ -14,7 +14,8 @@
 
 
 # 🧱 ERD
-![조각조각_ERD](https://github.com/user-attachments/assets/db743475-600c-42d6-a9fa-d9e7f5235718)
+![조각조각_ERD](https://github.com/user-attachments/assets/db3b0778-9d27-44bc-ae4b-e99092ac8d75)
+
 <br><br>
 
 
