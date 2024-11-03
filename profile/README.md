@@ -5,7 +5,7 @@
 | <img src="https://github.com/user-attachments/assets/9348e51b-8d12-46d9-98d2-f22769bc56b6" width="220" height="220" /> | <img src="https://github.com/user-attachments/assets/d0d6bc93-7648-4200-8329-735e77d71170" width="220" height="220" /> | <img src="https://github.com/anxi01.png" width="220" height="220" /> | <img src="https://github.com/HoyeongJeon.png" width="220" height="220" /> |
 |:----------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------:|:--------------------------------------------------------------------:|:-------------------------------------------------------------------------:|
 |                                          [황동준](https://github.com/nebulaBdj)                                           |                   [공예영](https://github.com/yeyounging)                   |                   [한성민](https://github.com/anxi01)                   |                   [전호영](https://github.com/HoyeongJeon)                   |
-|                                                     Frontend Lead                                                      |                              Frontend                               |                             Develop Lead                             |                                  Backend                                  |
+|                                                     Frontend Lead                                                      |                              Frontend                               |                             Tech Lead                             |                                  Backend                                  |
 
 
 # 🏛️ System Architecture
@@ -81,7 +81,6 @@ ex) feat: (#13) Google, Naver, Kakao의 RestClient 구현체를 구현한다
 | fix | 버그 수정 및 기능 수정 |
 | refactor | 코드 리팩토링 |
 | chore | 그 외 자잘한 수정 |
-<br><br>
 
 # 💨 Git Flow
 ![Git Flow](https://github.com/user-attachments/assets/1666715f-5f2a-4f45-beee-d909cb5f4cf9)
