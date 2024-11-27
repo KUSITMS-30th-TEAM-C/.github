@@ -1,3 +1,4 @@
+![intro](https://github.com/user-attachments/assets/5498e204-658e-40b8-9a3e-47b7f1bf643a)
 # ⭐ 팀 소개
 
 > **서비스명** : **조각조각** ⏰
